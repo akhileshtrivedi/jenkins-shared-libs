@@ -1,3 +1,3 @@
 def call(name){
-  eco "Hi ${name}, how are you?"
+  echo "Hi ${name}, how are you?"
 }
